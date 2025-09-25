@@ -1,10 +1,12 @@
-## Hey 👋, I'm Mahmoud Hussein!
-<a href='https://www.linkedin.com/in/YOUR-LINKEDIN/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/YOUR-KAGGLE/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+## Hey 👋, I'm Youssef Abuzaid!
+<a href='https://www.linkedin.com/in/youssef-abuzaid-58b8a2379/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://codeforces.com/profile/goyzsc'><img alt="codeforces" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" height='18px'/></a>
+<a href='https://github.com/youssefzsc321-debug'><img alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='18px'/></a>
+<a href='https://www.youtube.com/@youssefabuzaid5542'><img alt="youtube" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height='18px'/></a>
 
-
-I am a **Data Enthusiast** passionate about working with **Databases, Data Warehousing, Data Lakes, and Python**.  
-I enjoy learning new tools and technologies to analyze, process, and manage data efficiently. My main goal is to build scalable data solutions and move toward a career in **Data Engineering & Analytics**.  
+I am a **Competitive Programmer** and **ASP.NET Enthusiast** passionate about solving problems and building applications.  
+I enjoy learning new tools and technologies to sharpen my coding skills and create impactful projects.  
+My main goal is to master algorithms, contribute to open source, and advance as a **Problem Solver and Web Developer**.  
 
 <br/>
 
@@ -12,30 +14,37 @@ I enjoy learning new tools and technologies to analyze, process, and manage data
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; Currently learning and practicing **SQL, Python, and Data Warehouse concepts**  
-- 🤝 &nbsp; Open to collaborate on **data-related projects** (ETL, pipelines, analytics, etc.)  
-- 🌱 &nbsp; Exploring tools in **Data Engineering & Big Data**  
-- 👨🏻‍💻 &nbsp; Some of my practice projects are available on [Github](https://github.com/YOUR-GITHUB)  
-- 💬 &nbsp; Ask me about anything related to **Databases, SQL, and Data Engineering**  
-- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
+- 🎓 &nbsp; Student at Faculty of Computers and AI, Benha University  
+- 💻 &nbsp; Interested in **ASP.NET** and **Web Development**  
+- 🏆 &nbsp; Competitive programmer on [Codeforces](https://codeforces.com/profile/goyzsc)  
+- 👨‍🏫 &nbsp; Trained +70 students in problem solving  
+- ⚡ &nbsp; ECPC 2024 & 2025 participant, ICPC community monitor at Benha University  
+- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/youssef-abuzaid-58b8a2379/)  
 
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>
-<a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img align="left" alt="SQL Server" height ="42px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></a>
-<a href="https://hadoop.apache.org/" target="_blank"><img align="left" alt="Hadoop" height ="42px" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg"></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" height ="42px" src="https://www.vectorlogo.zone/logos/csharp/csharp-icon.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
+<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" alt=".NET" height ="42px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML" height ="42px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="42px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
+<a href="https://github.com/" target="_blank"><img align="left" alt="GitHub" height ="42px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a>
 
 <br>
 
 ### 📊 Github Stats
-<a href='https://github.com/YOUR-GITHUB'>
+<a href='https://github.com/youssefzsc321-debug'>
   
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
+---
+
+### ✨ Fun fact
+> "The best way to learn coding is by solving real problems."
